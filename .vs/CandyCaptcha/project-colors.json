@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c56857b-3a88-4572-a09b-201e5089ca0d": {
+      "ProjectGuid": "5c56857b-3a88-4572-a09b-201e5089ca0d",
+      "DisplayName": "CandyCaptcha",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

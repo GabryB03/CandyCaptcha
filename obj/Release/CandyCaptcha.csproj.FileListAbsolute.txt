@@ -1,0 +1,9 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\CandyCaptcha\bin\Release\CandyCaptcha.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\CandyCaptcha\bin\Release\CandyCaptcha.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\CandyCaptcha\obj\Release\CandyCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\CandyCaptcha\obj\Release\CandyCaptcha.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\CandyCaptcha\bin\Release\LegitHttpServer.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\CandyCaptcha\obj\Release\CandyCaptcha.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\CandyCaptcha\bin\Release\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\CandyCaptcha\bin\Release\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\CandyCaptcha\obj\Release\CandyCaptcha.csproj.AssemblyReference.cache
